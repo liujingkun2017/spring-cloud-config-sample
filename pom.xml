@@ -10,7 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-cloud-config-server-git-sample</module>
+        <module>spring-cloud-config-server-sample</module>
         <module>spring-cloud-config-client-git-sample</module>
+        <module>spring-cloud-config-client-sample</module>
     </modules>
 
     <parent>
